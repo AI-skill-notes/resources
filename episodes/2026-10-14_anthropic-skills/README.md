@@ -1,5 +1,6 @@
 # Anthropic 'Don't Build Agents, Build Skills Instead' 풀이: 에이전트는 하나, 전문성은 스킬 폴더로
 
+- 영상(AI스킬노트, 10/14 수요일 저녁 7시 공개): https://youtu.be/5j9gaMVZgMQ
 - 원본 강연(AI Engineer, Barry Zhang · Mahesh Murag, Anthropic): https://www.youtube.com/watch?v=CEvIs9y1uog
 - 바로 쓰는 체크리스트: [checklist.md](checklist.md)
 - 스킬 템플릿 키트(영상 공개 후 48시간): [kit/](kit/)
