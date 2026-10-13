@@ -11,10 +11,15 @@ AI 개발 도구를 먼저 써 보고 재 본 뒤, 바로 쓸 수 있는 파일�
 
 새 모델이 나와서 결과가 달라지면 자료를 다시 재서 고칩니다. 고친 내역은 각 폴더의 `CHANGELOG`에 남깁니다.
 
+## 지금 있는 자료
+- [GitHub 별 증가 BEST 10 (10월 둘째 주)](episodes/2026-10-12_github-best10): 순위표, 지난주 대비 변화, 한 줄 설치
+- [Anthropic 스킬 강연 정리](episodes/2026-10-14_anthropic-skills): 체크리스트, 스킬 템플릿
+- [컨텍스트 스마트 존](episodes/2026-10-17_context-smart-zone): 체크리스트, 설정 예시
+
 ## 폴더 구조
 ```
 episodes/
-  2026-10-07_matt-pocock/    # 영상 한 편 = 폴더 하나
+  2026-10-12_github-best10/  # 영상 한 편 = 폴더 하나
     README.md                 # 영상 링크, 원본 출처, 요약
     checklist.md              # 바로 쓰는 체크리스트
 ```
