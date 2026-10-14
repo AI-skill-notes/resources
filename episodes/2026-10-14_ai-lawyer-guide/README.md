@@ -1,5 +1,7 @@
 # 클로드에 'AI 법률 비서' 연결하기 (초보자용, 무료 계정 가능)
 
+> 📄 **PDF로 받기:** [ai_lawyer_guide.pdf 바로 다운로드](https://github.com/AI-skill-notes/resources/raw/main/episodes/2026-10-14_ai-lawyer-guide/ai_lawyer_guide.pdf) (13쪽, 0.9MB) · [브라우저에서 보기](ai_lawyer_guide.pdf)
+
 클로드에 법제처 국가법령정보를 연결하면, 질문할 때마다 **지금 시행 중인 법 조문 원문**을 직접 찾아보고 답합니다.
 쓰는 도구는 공무원이 만든 오픈소스 [korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)(MIT 라이선스)입니다. AI스킬노트가 만든 도구가 아니고, 제휴도 없습니다.
 
