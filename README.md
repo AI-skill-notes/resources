@@ -18,6 +18,7 @@ AI 개발 도구를 먼저 써 보고 재 본 뒤, 바로 쓸 수 있는 파일�
 - [클로드 AI 법률 비서 연결 가이드](episodes/2026-10-14_ai-lawyer-guide): claude.ai 무료 계정에 법령 데이터 연결, 실제 화면 9장, 바로 쓰는 질문 4개
 - [MS 오피스 대신 평생 무료로 쓰는 앱 3개](episodes/2026-10-15_free-office-apps): 워드·엑셀·파워포인트 대체 오픈소스 받는 법, 실제 화면, 알아 둘 점, 부록 클로드 코드 연결 (PDF 10쪽)
 - [Claude Code 토큰 아끼는 법 (스마트 존 V2)](episodes/2026-10-17_context-smart-zone-v2): 공식 문서의 방법 5가지 + 덤 3가지, 토큰 점검표, Haiku 서브에이전트 설정 파일 (PDF 7쪽)
+- [Claude Duet 공식 안내 정리](episodes/2026-10-23_claude-duet): 누가 쓸 수 있나, 대기 신청 순서, 사용량·제한, 한국에서 오늘 할 수 있는 준비 체크리스트 (공식 글·도움말 정리, 한국 미출시라 직접 써 보지는 못함)
 - [Matt Pocock이 말한 AI에게 일 맡기는 순서 (신뢰 사다리 키트)](episodes/2026-10-21_mattpocock-trust-ladder): 4단계마다 붙여 넣는 요청문(직접 돌려 확인), effort 정리, 체크리스트 (PDF 6쪽, PDF는 공개 뒤 이틀)
 
 ## 폴더 구조
