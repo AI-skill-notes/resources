@@ -1,7 +1,7 @@
 # Claude Duet 공식 안내 정리 (2026-10-22 확인)
 
 - 출처: Anthropic 공식 글 'Introducing Claude Duet'(2026-10-21) https://claude.com/resources/articles/claude-duet · Claude 도움말 'Get started with Claude Duet' https://support.claude.com/en/articles/17631495-get-started-with-claude-duet
-- 영상(AI스킬노트 쇼츠): 공개 뒤 링크를 추가합니다.
+- 영상(AI스킬노트 쇼츠, 10/23 금요일 아침 7시 공개): https://youtu.be/qak4vd2gQ14
 - 이 정리는 연구 미리보기(research preview) 기간 기준입니다. 공식 안내가 바뀌면 그쪽이 맞습니다.
 
 ## 무엇이 다른가
