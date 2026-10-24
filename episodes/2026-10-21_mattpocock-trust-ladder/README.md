@@ -9,3 +9,8 @@
 | [checklist.md](checklist.md) | 오늘 해 볼 여섯 가지 체크리스트 | 계속 |
 
 요청문은 Claude Code에서 2026-10-19에 예제 폴더로 시험했습니다. 연사의 말은 영상의 원음과 한국어 자막을 따르고, 요청문 문장은 우리 제안입니다. 광고·협찬 아님.
+
+## 실행 키트: 공개 기간이 끝났어요
+실행 키트(trust_ladder_kit.pdf)는 영상 공개 후 48시간 동안만 열어 뒀어요(~ 2026-10-23 19:00 KST). 요약과 체크리스트는 계속 볼 수 있어요.
+- 다음 실행 키트는 수·토요일 저녁 7시, 새 롱폼과 함께 올라와요.
+- 놓치지 않으려면 채널을 구독하고 🔔 알림을 켜 두세요: https://www.youtube.com/channel/UC9nFHiLsVpcQxVoOPR28CQg?sub_confirmation=1
