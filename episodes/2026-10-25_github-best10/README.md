@@ -6,7 +6,7 @@
 | 순위 | 저장소 | 별 증가 | 지난주 대비 | 라이선스 | 한 줄 | 단, 확인할 것 |
 |---|---|---|---|---|---|---|
 | 1 | [morluto/rea](https://github.com/morluto/rea) | +71,718 | 그대로 | MIT | 에이전트가 앱을 뜯어보는 분석 도구 | 내 것·허락받은 소프트웨어만(README) |
-| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +14,526 | 지난주 9위 ▲7 | MIT | Claude Code로 돌리는 취업 준비 도구 | 공고 검색은 덴마크용 · 유료 플랜 필요(README) |
+| 2 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | +14,526 | 지난주 9위 ▲7 | MIT | Claude Code로 돌리는 취업 준비 도구 | 공고 검색은 덴마크용 · 유료 플랜 필요(README) |
 | 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +13,631 | 새로 진입 | MIT | 코딩 에이전트를 보안 점검자로 바꾸는 스킬 | 격리된 샌드박스에서 쓰기(README) |
 | 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +11,693 | 지난주 2위 ▼2 | AGPL-3.0 | 내 컴퓨터에서 돌리는 음성 도구 | 라이선스 AGPL-3.0, 회사에서 쓰기 전 확인 |
 | 5 | [stablyai/orca](https://github.com/stablyai/orca) | +9,579 | 지난주 7위 ▲2 | MIT | 에이전트 여러 개를 나란히 돌리는 앱 | - |
