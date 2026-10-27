@@ -1,6 +1,6 @@
 # Andrew Ng이 말한 AI 시대 공부·커리어: 힌트부터 받는 공부 키트
 
-- 영상(AI스킬노트 롱폼, 2026-10-28 수요일 저녁 7시 공개): 공개되면 여기에 링크를 붙여요
+- 영상(AI스킬노트 롱폼, 2026-10-28 수요일 저녁 7시 공개): https://youtu.be/AoHQA_M0xCk
 - 원본: Silicon Valley Girl 'Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think' (https://www.youtube.com/watch?v=o-wv_szZ0V0)
 
 | 파일 | 내용 | 공개 |
