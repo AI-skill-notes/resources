@@ -1,6 +1,6 @@
 # Matt Pocock이 말한 AI에게 일 맡기는 순서: 신뢰 사다리 시작 키트
 
-- 영상(AI스킬노트 롱폼, 수요일 저녁 7시 공개): https://youtu.be/gvttcvgNb4Y
+- 영상(AI스킬노트 롱폼, 수요일 저녁 7시 공개): https://youtu.be/9NY2ghMm4MI
 - 원본: Nate Herk | AI Automation 'Matt Pocock: The Most Valuable Skill to Learn in the Age of AI' (https://www.youtube.com/watch?v=Z8lf5oWKfj0)
 
 | 파일 | 내용 | 공개 |
